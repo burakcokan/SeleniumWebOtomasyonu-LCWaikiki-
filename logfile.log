@@ -1,0 +1,12 @@
+2021-11-06 15:09:57,370 ERROR [Log] search_a_product()HATA 
+2021-11-06 15:09:57,393 ERROR [Log] select_a_product()HATA 
+2021-11-06 15:09:57,513 ERROR [Log] add_product_to_cart()HATA 
+2021-11-06 15:09:57,604 ERROR [Log] go_to_cart()HATA 
+2021-11-06 15:11:39,381 ERROR [Log] search_a_product()HATA 
+2021-11-06 15:11:39,415 ERROR [Log] select_a_product()HATA 
+2021-11-06 15:11:39,815 ERROR [Log] add_product_to_cart()HATA 
+2021-11-06 15:11:39,927 ERROR [Log] go_to_cart()HATA 
+2021-11-06 15:18:52,999 ERROR [Log] search_a_product()HATA 
+2021-11-06 15:18:53,048 ERROR [Log] select_a_product()HATA 
+2021-11-06 15:18:53,098 ERROR [Log] add_product_to_cart()HATA 
+2021-11-06 15:18:53,135 ERROR [Log] go_to_cart()HATA 
